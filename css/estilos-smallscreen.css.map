@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,gBAAgB,EAAE,yCAAyC;CAC5D;;AACD,AAAA,KAAK,CAAC;EACJ,KAAK,EAAE,KAAK;CAab;;AAZE,AAAD,WAAO,CAAC;EACN,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACpB;;AACA,AAAD,YAAQ,CAAC;EACP,WAAW,EAAE,GAAG;EAChB,cAAc,EAAE,IAAI;EACpB,SAAS,EAAE,MAAM;CAClB;;AACA,AAAD,WAAO,EAXT,KAAK,CAWM,EAAE,CAAC;EACV,SAAS,EAAE,MAAM;CAClB",
+    "sources": [
+        "../sass/estilos-smallscreen.scss"
+    ],
+    "names": [],
+    "file": "estilos-smallscreen.css"
+}

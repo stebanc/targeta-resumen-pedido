@@ -1,0 +1,196 @@
+@import url("https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@500;700;900&display=swap");
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Red Hat Display", sans-serif;
+}
+
+.contenedor {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  width: 100%;
+  height: 100vh;
+  background-color: #e0e8ff;
+  background-image: url(/images/pattern-background-desktop.svg);
+  background-repeat: no-repeat;
+  background-size: contain;
+  color: #1f2f56;
+}
+
+.card {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  background-color: white;
+  border-radius: 15px;
+  -webkit-box-shadow: 0 8px 20px 0 rgba(56, 41, 224, 0.25);
+          box-shadow: 0 8px 20px 0 rgba(56, 41, 224, 0.25);
+}
+
+.card__header {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  text-align: center;
+}
+
+.card__body {
+  width: 80%;
+  margin-bottom: 20px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  height: 88px;
+  border-radius: 25px;
+  background-color: #f5f7ff;
+}
+
+.card__footer {
+  width: 80%;
+  margin-bottom: 25px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  text-align: center;
+}
+
+.card__img {
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  width: 100%;
+}
+
+.card__title {
+  margin: 0;
+  font-weight: 900;
+}
+
+.card__text {
+  margin: 0;
+  padding-left: 50px;
+  padding-right: 50px;
+  padding-bottom: 20px;
+  color: #7280a7;
+}
+
+.card__precio {
+  padding-left: 30px;
+  padding-right: 60px;
+}
+
+.card__icon {
+  width: 48px;
+  height: 48px;
+}
+
+.card__title-plan {
+  margin: 0;
+  font-size: 1rem;
+  font-weight: 900;
+}
+
+.card__text-plan {
+  margin: 0;
+  color: #7280a7;
+}
+
+.card__link {
+  display: block;
+  color: #3829e0;
+  font-weight: 900;
+  -webkit-text-decoration-color: #1f2f56;
+          text-decoration-color: #1f2f56;
+}
+
+.card__link:hover {
+  color: #756af1;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.card__btn {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: #7280a7;
+  border: none;
+  text-decoration: none;
+  font-weight: 700;
+  border-radius: 10px;
+  letter-spacing: 1px;
+  background-color: transparent;
+}
+
+.card__btn--primary {
+  background-color: #3829e0;
+  -webkit-transition: all 0.2s ease;
+  transition: all 0.2s ease;
+  color: white;
+  margin-bottom: 20px;
+  -webkit-box-shadow: 0 15px 20px 0 rgba(56, 41, 224, 0.25);
+          box-shadow: 0 15px 20px 0 rgba(56, 41, 224, 0.25);
+}
+
+.card__btn--primary:hover {
+  background-color: #756af1;
+  cursor: pointer;
+}
+
+.card__btn--cancel:hover {
+  color: #1f2f56;
+  cursor: pointer;
+}
+
+.footer {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  font-size: 11px;
+  text-align: center;
+}
+
+.footer a {
+  color: #b67cfe;
+}
+/*# sourceMappingURL=estilos.css.map */

@@ -1,0 +1,15 @@
+.card {
+  width: 320px;
+  &__text {
+    padding-left: 25px;
+    padding-right: 25px;
+  }
+  &__title {
+    padding-top: 20x;
+    padding-bottom: 10px;
+    font-size: 1.4rem;
+  }
+  &__body, h2 {
+    font-size: 0.8rem;
+  }
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,WAAW,CAAC;EACV,gBAAgB,EAAE,2CAA2C;CAC9D;;AACD,AAAA,KAAK,CAAC;EACJ,KAAK,EAAE,KAAK;CAUb;;AATE,AAAD,WAAO,CAAC;EACN,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACpB;;AACA,AAAD,YAAQ,CAAC;EACP,WAAW,EAAE,IAAI;EACjB,cAAc,EAAE,IAAI;EACpB,SAAS,EAAE,MAAM;CAClB",
+    "sources": [
+        "../sass/estilos-widescreen.scss"
+    ],
+    "names": [],
+    "file": "estilos-widescreen.css"
+}

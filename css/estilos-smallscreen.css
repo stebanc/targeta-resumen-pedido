@@ -1,0 +1,19 @@
+.card {
+  width: 320px;
+}
+
+.card__text {
+  padding-left: 25px;
+  padding-right: 25px;
+}
+
+.card__title {
+  padding-top: 20x;
+  padding-bottom: 10px;
+  font-size: 1.4rem;
+}
+
+.card__body, .card h2 {
+  font-size: 0.8rem;
+}
+/*# sourceMappingURL=estilos-smallscreen.css.map */

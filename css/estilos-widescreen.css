@@ -1,0 +1,19 @@
+.contenedor {
+  background-image: url(/images/pattern-background-desktop.svg);
+}
+
+.card {
+  width: 450px;
+}
+
+.card__text {
+  padding-left: 50px;
+  padding-right: 50px;
+}
+
+.card__title {
+  padding-top: 40px;
+  padding-bottom: 20px;
+  font-size: 1.5rem;
+}
+/*# sourceMappingURL=estilos-widescreen.css.map */
