@@ -10,4 +10,4 @@ Esta es una solución para el [desafío de tarjeta de resumen de pedidos en Fron
 
 ## Solución
 
-[tarjeta de resumen de pedido](https://stebanc.github.io/targeta-resumen-pedido/).
+[tarjeta de resumen de pedido](https://stebanc.github.io/tarjeta-resumen-pedido/).
